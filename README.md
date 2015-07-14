@@ -1,3 +1,6 @@
+I have already forked an older version of this repo, thus I'm manually creating a copy. Imported this code from: 
+https://github.com/jeduan/cordova-plugin-facebook4.git
+
 # Apache Cordova Facebook Plugin
 
 This is a fork of the official plugin for Facebook in Apache Cordova that implements the latest Facebook SDK
