@@ -1,4 +1,4 @@
-I have already forked an older version of this repo, thus I'm manually creating a copy. Imported this code from: 
+I have already forked an older version of this repo, thus I'm manually creating a copy. Imported all code from: 
 https://github.com/jeduan/cordova-plugin-facebook4.git
 
 # Apache Cordova Facebook Plugin
